@@ -1,4 +1,4 @@
-# 3D Cube Projection | Java
+# 3D Shape Projection | Java
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=plastic&logo=openjdk)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=plastic)](#)
