@@ -55,7 +55,7 @@ A Java program for 3D Shape rendering using both orthographic and perspective pr
 
 You can download the latest version of the project from the **Releases** section:
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=plastic&logo=github)](https://github.com/Mesippo/3D-Shape-Projection-Java/tree/main/Downloadable%20Jars)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=plastic&logo=github)](https://github.com/Mesippo/3DShapeProjectionJava/tree/main/Downloadable%20Jars)
 
 > **Note:** The project is currently a work in progress, so releases may change frequently.
 
