@@ -77,8 +77,8 @@ To download the source code directly:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mesippo/3D-Shape-Projection-Java.git
-cd 3D-Shape-Projection-Java
+git clone https://github.com/mesippo/3DShapeProjectionJava.git
+cd 3DShapeProjectionJava
 ```
 
 ### Run the Project
