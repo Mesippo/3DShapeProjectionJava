@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=plastic&logo=openjdk)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=plastic)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=plastic)](https://github.com/Mesippo/3DCubeProjectionJava/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=plastic)](https://github.com/Mesippo/3DShapeProjectionJava/blob/main/LICENSE)
 [![macOS](https://img.shields.io/badge/macOS-supported-green?style=plastic&logo=apple&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-supported-green?style=plastic&logo=windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-supported-green?style=plastic&logo=linux&logoColor=white)](#)
@@ -12,18 +12,18 @@
 
 ## About
 
-A Java program for 3D cube rendering using both orthographic and perspective projections. The project features custom classes, mathematical calculations with matrices, and GUIs that include adjustable buttons, sliders, etc. (Work in progress)
+A Java program for 3D Shape rendering using both orthographic and perspective projections. The project features custom classes, mathematical calculations with matrices, and GUIs that include adjustable buttons, sliders, etc. (Work in progress)
 
 
 ---
 
 ## Features
 
-* Real-time 3D cube rendering
+* Real-time 3D Shape rendering
 * Orthographic projection
 * Perspective projection
 * Matrix-based mathematical calculations
-* Interactive cube rotation
+* Interactive Shape rotation
 * Mouse controls
 * Keyboard controls
 * Adjustable GUI controls
@@ -55,7 +55,7 @@ A Java program for 3D cube rendering using both orthographic and perspective pro
 
 You can download the latest version of the project from the **Releases** section:
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=plastic&logo=github)](https://github.com/Mesippo/3D-Cube-Projection-Java/tree/main/Downloadable%20Jars)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=plastic&logo=github)](https://github.com/Mesippo/3D-Shape-Projection-Java/tree/main/Downloadable%20Jars)
 
 > **Note:** The project is currently a work in progress, so releases may change frequently.
 
@@ -63,7 +63,7 @@ You can download the latest version of the project from the **Releases** section
 
 To download the source code directly:
 
-[![Source Code](https://img.shields.io/badge/Latest%20Source%20Code-GitHub-0078D4?style=plastic&logo=github&logoColor=white)](https://github.com/Mesippo/3DCubeProjectionJava/tree/main/Version%200.1)
+[![Source Code](https://img.shields.io/badge/Latest%20Source%20Code-GitHub-0078D4?style=plastic&logo=github&logoColor=white)](https://github.com/Mesippo/3DShapeProjectionJava/tree/main/Version%200.1)
 
 ---
 
@@ -77,8 +77,8 @@ To download the source code directly:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mesippo/3D-Cube-Projection-Java.git
-cd 3D-Cube-Projection-Java
+git clone https://github.com/mesippo/3D-Shape-Projection-Java.git
+cd 3D-Shape-Projection-Java
 ```
 
 ### Run the Project
@@ -122,7 +122,7 @@ src/
     │   ├── InputControls.java
     │   └── PVector.java
     │
-    ├── DCube.java
+    ├── DShape.java
     └── Panel.java
 ```
 
